@@ -35,7 +35,7 @@ To test the application make sure the repo is cloned to your local client and ma
 "node server.js" and do what is prompted.
 
 ## Video Walkthrough
-
+In "assets Folder"
 
 ## User Story
 
